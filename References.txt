@@ -1,0 +1,17 @@
+References for model design:
+
+1) https://www.mdpi.com/2072-4292/13/2/296/pdf 
+2) http://cs231n.stanford.edu/reports/2017/pdfs/714.pdf
+3) https://www.kdnuggets.com/2019/10/research-guide-video-frame-interpolation-deep-learning.html
+4) https://arxiv.org/pdf/2011.06294.pdf (RIFE)
+5) https://arxiv.org/pdf/2105.13482.pdf (FastRIFE)
+6) https://arxiv.org/pdf/1904.00830v1.pdf (DAIN)
+7) https://arxiv.org/pdf/1904.00830v1.pdf (FLAVR)
+8) https://towardsdatascience.com/pytorch-step-by-step-implementation-3d-convolution-neural-network-8bf38c70e8b3 (optional)
+
+Pre-requisites:
+
+1) Deep Learning Specialization(upto second week of Course 4, can skip Course 3 if not needed) - knowledge of U Nets is necessary (refer to 
+https://arxiv.org/pdf/1904.00830v1.pdf for more information on U Nets)
+
+2) Pytorch and Matplotlib basics

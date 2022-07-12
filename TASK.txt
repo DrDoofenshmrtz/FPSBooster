@@ -1,0 +1,10 @@
+TASK:
+
+Design a CNN model for image classification using Pytorch API. Use MNIST dataset from torchvision.datasets.
+
+Make sure to include the following:
+1) Image transforms
+2) Data loaders
+3) Usage of appropriate Pytorch functions for loading dataset, building the CNN, defining the loss, optimizer, .etc
+
+Also use Matplotlib to visualize the dataset(one selected image and one random image from the dataset.
